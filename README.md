@@ -1,5 +1,5 @@
 # Java
 
-# Hash Functions Comparison: Java built in Hash vs Custom Hash Function
+### Hash Functions Comparison: Java built in Hash vs Custom Hash Function
 
-# Python myPandas library built in Java
+### Python myPandas library built in Java
