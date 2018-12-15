@@ -1,0 +1,15 @@
+Exercise 3 - Data Analysis
+
+A sample text file that holds employees data is attached with the homework. Each line has the following
+data elements (separated by commas):
+Name, DOB, Salary
+
+Write a Java based code to answer the following questions:
+ How many Employees exist in the file?
+ Who has the highest salary?
+ What is the average salary?
+ How many employees make above the average?
+ What is the average age of employees?
+
+Write to an output file the employee names sorted according to their salary? (Make sure to well format
+the output file)
