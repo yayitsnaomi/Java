@@ -1,0 +1,4 @@
+This is the result of 3 hash functions, measured by number of collisions 
+ASCII Hash Function Collisions: 110
+Java Hash Function Collisions: 71
+Custom Hash Function Collisions: 69
