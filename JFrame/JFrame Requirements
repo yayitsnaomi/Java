@@ -1,0 +1,6 @@
+Exercise 2
+A sample java code that plots a 𝑛 𝑋 𝑛 small circles with black color on a java frame window is located at FunPlot.java file. Where n is a user entered even number
+See result for n=6:
+Modify the code to display different colors on each quadrant as shown below.
+
+
